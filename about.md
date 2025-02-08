@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Chardin Xia, and I'm a sophomore in NYU Game Center. Most of my games were posted on https://chardin.itch.io/. Feel free to play them!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Emails: jx2603@nyu.edu
 
