@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | [Record](https://www.openstreetmap.org/changeset/162558480#map=19/47.202369/-122.544240)   | MapEdit    |   I added more details to a building    |
-| Feb 10    | [Record](https://www.openstreetmap.org/changeset/162558510#map=19/39.956079/116.379478)    |  MapEdit   |   I added more details to a lake nearby     |
+| Feb 3   | [Record](https://www.openstreetmap.org/changeset/162558480#map=19/47.202369/-122.544240)   | OpenStreet Map feature    |   I added more details to a building    |
+| Feb 10    | [Record](https://www.openstreetmap.org/changeset/162558510#map=19/39.956079/116.379478)    |  OpenStreet Map feature   |   I added more details to a lake nearby     |
 |     |     |     |      |
