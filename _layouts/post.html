@@ -9,6 +9,10 @@ layout: default
     {{ content }}
   </div>
 
+  {% if page.excerpt %}
+    <a href="{{ page.url }}">Read More</a>
+  {% endif %}
+
   <div class="date">
     Written before or on {{ page.date | date: "%B %e, %Y" }}
   </div>
