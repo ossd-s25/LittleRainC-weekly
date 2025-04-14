@@ -24,4 +24,7 @@ Replace the first row with your own contribution.
 |---|:---|:---|:---|
 | Feb 3   | [Record](https://www.openstreetmap.org/changeset/162558480#map=19/47.202369/-122.544240)   | OpenStreet Map feature    |   I added more details to a building    |
 | Feb 10    | [Record](https://www.openstreetmap.org/changeset/162558510#map=19/39.956079/116.379478)    |  OpenStreet Map feature   |   I added more details to a lake nearby     |
-|     |     |     |      |
+|     |     |     |     |
+|     |     |     |     |
+|     |     |     |     |
+| Apr 9    | [Record](https://github.com/BUGS-NYU/nyu-cs-wiki/pull/127)    |  NYU CS Wiki   |   Rewrite the whole page of NYU Game Center   |
