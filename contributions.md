@@ -28,3 +28,4 @@ Replace the first row with your own contribution.
 | Apr 14  |  [Record](https://github.com/BUGS-NYU/nyu-cs-wiki/pull/127)   |  NYU CS Wiki  |  Finished A PR For the page of NYU Game Center   |
 | Apr 19  |  [Record](https://www.openstreetmap.org/changeset/165333804#map=16/40.65698/-73.96858)   |  OpenStreet Map feature  |  Add few more details to the Prospect Park in Brooklyn  |
 | Apr 23  |  [Record](https://github.com/BUGS-NYU/nyu-cs-wiki/issues/129)   |  NYU CS Wiki   |  Opened An Issue For the page of Recommended Classes   |
+| Apr 28  |  [Record](https://github.com/oppia/oppia-web-developer-docs/pull/457)   |  NYU CS Wiki   |  Opened A PR For the page of Recommended Classes   |
